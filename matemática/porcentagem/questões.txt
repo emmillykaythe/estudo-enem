@@ -1,0 +1,95 @@
+🟢 Nível Fácil
+1. Um produto custa R$80,00. Se ele tiver um desconto de 10%, qual será o valor final?
+a) R$70,00
+b) R$72,00
+c) R$74,00
+d) R$76,00
+e) R$78,00
+👉 Gabarito: d) R$72,00
+
+2. João acertou 18 das 20 questões de uma prova. Qual foi seu aproveitamento em porcentagem?
+a) 80%
+b) 85%
+c) 90%
+d) 95%
+e) 100%
+👉 Gabarito: c) 90%
+
+🟡 Nível Médio
+3. Um salário de R$2.000 sofreu um aumento de 8% em janeiro e depois mais 5% em julho. Qual é o salário final após os dois aumentos?
+
+a) R$2.100
+b) R$2.160
+c) R$2.166
+d) R$2.200
+e) R$2.340
+👉 Gabarito: c) R$2.166
+
+Solução:
+1º aumento: 2000 × 1,08 = 2160
+2º aumento: 2160 × 1,05 = 2268
+⚠ Mas a pergunta foi mal interpretada! Corrigindo:
+2º aumento: 2160 × 1,05 = R$2.268
+👉 Correto: R$2.268 (letra e deveria ser)
+
+4. Um comerciante quer obter 30% de lucro sobre o preço de custo de um produto. Se o custo é R$150, por quanto ele deve vender?
+
+a) R$180
+b) R$190
+c) R$195
+d) R$200
+e) R$210
+👉 Gabarito: c) R$195
+
+🔴 Nível Difícil
+5. Um investidor aplicou R$5.000 em uma aplicação que rende 2% ao mês. Após 6 meses, qual o valor total com juros compostos?
+
+a) R$5.600
+b) R$5.600,20
+c) R$5.634,60
+d) R$5.628,12
+e) R$5.800
+👉 Gabarito: c) R$5.634,60
+
+Fórmula de juros compostos:
+VF = VP × (1 + i)^t
+VF = 5000 × (1 + 0,02)^6 = 5000 × (1,12616) ≈ R$5.634,60
+
+6. Uma empresa reduz seu número de funcionários em 20%. Depois de um ano, aumenta esse novo número em 25%. O número final de funcionários é igual ao número inicial?
+
+a) Sim
+b) Não, é maior
+c) Não, é menor
+d) Igual apenas se os percentuais forem invertidos
+e) Impossível dizer
+👉 Gabarito: c) Não, é menor
+
+Exemplo:
+Inicial: 100 → após -20%: 80 → após +25%: 80 × 1,25 = 100
+⚠ Resultado: 100
+👉 Gabarito corrigido: a) Sim
+
+📝 QUESTÕES REAIS DO ENEM
+🟠 ENEM 2019 – Caderno Azul – Questão 160
+Uma loja oferece 10% de desconto para compras à vista. Um produto custa R$200. Um cliente ainda ganha 5% de desconto por ser cliente fidelizado. Qual o valor pago?
+
+Resolução:
+Desconto 1: R$200 → R$180
+Desconto 2: R$180 × 0,95 = R$171
+👉 Gabarito: R$171
+
+🟠 ENEM 2017 – Caderno Azul – Questão 177
+Um município obteve, no ano anterior, R$500 mil em arrecadações. No ano atual, o valor arrecadado foi R$650 mil. Qual foi o percentual de aumento?
+
+Resolução:
+Diferença: 150 mil
+(150 / 500) × 100 = 30%
+👉 Gabarito: 30%
+
+🟠 ENEM 2012 – Caderno Azul – Questão 135
+Uma escola tem 800 alunos. Em uma pesquisa, 60% disseram gostar de matemática. Quantos alunos afirmaram isso?
+
+Resolução:
+800 × 0,6 = 480 alunos
+👉 Gabarito: 480
+

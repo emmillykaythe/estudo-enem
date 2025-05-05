@@ -1,0 +1,43 @@
+Questões de Nível Fácil:
+(Fácil) Em uma escola, a razão de alunos do sexo masculino para alunos do sexo feminino é 2:3. Se o número total de alunos é 100, quantos alunos são do sexo masculino?
+
+(Fácil) Uma receita pede 4 xícaras de farinha para 2 xícaras de açúcar. Qual é a razão entre as xícaras de farinha e as de açúcar?
+
+(Fácil) Se um mapa tem uma escala de 1:100.000, quanto de distância real corresponde a 2 cm no mapa?
+
+(Fácil) Em uma sala de aula, a razão de alunos que gostam de matemática para os que não gostam é 3:7. Se há 100 alunos na sala, quantos alunos não gostam de matemática?
+
+(Fácil) Uma farmácia vende 3 pacotes de remédio por R$15,00. Qual é o preço de 5 pacotes?
+
+Questões de Nível Médio:
+(Médio) A razão entre as idades de Carlos e João é 4:5. Se a idade de Carlos é 20 anos, qual é a idade de João?
+
+(Médio) A razão de laranja para maçã em um cesto é 5:3. Se há 40 laranjas no cesto, quantas maçãs há?
+
+(Médio) Em um concurso, a razão entre candidatos masculinos e femininos é de 7:8. Se o total de candidatos é 1.500, quantos são do sexo feminino?
+
+(Médio) Se 4 quilos de arroz custam R$20,00, qual será o custo de 6 quilos de arroz?
+
+(Médio) Um mapa tem uma escala de 1:500.000. Quantos metros reais correspondem a 4 cm no mapa?
+
+Questões de Nível Difícil:
+(Difícil) Em uma escola, a razão de alunos aprovados para os alunos reprovados é 5:2. Se o número total de alunos na escola é 210, quantos alunos foram reprovados?
+
+(Difícil) A razão entre o comprimento de uma estrada e o comprimento do mapa que a representa é 1:50.000. Se a estrada tem 200 km de comprimento, qual é o comprimento correspondente no mapa?
+
+(Difícil) Um produto custa R$150,00 e foi dado um desconto de 20%. Qual é o preço final do produto?
+
+(Difícil) A razão entre o número de estudantes que passaram em um exame e os que não passaram foi de 4:9. Se 520 estudantes não passaram no exame, quantos passaram?
+
+(Difícil) Em uma cidade, a razão de carros para bicicletas é de 3:5. Se há 1.200 veículos na cidade, quantos são bicicletas?
+
+Questões do ENEM:
+(ENEM) Um terreno foi vendido por R$ 18.000,00 e tem o formato de um quadrado com uma área de 360 metros quadrados. Qual é o preço por metro quadrado do terreno?
+
+(ENEM) Uma fábrica produz 150 peças em 5 horas. Se a produção de 200 peças levar 6 horas, qual será o tempo necessário para produzir 250 peças?
+
+(ENEM) Um mapa tem a escala 1:1.000.000. Qual é a distância real correspondente a 6 cm no mapa?
+
+(ENEM) Uma solução contém 25% de substância ativa. Quantos litros de substância ativa existem em 120 litros dessa solução?
+
+(ENEM) Um vendedor oferece um desconto de 10% sobre um preço original de R$ 1.200,00. Qual será o valor final do produto após o desconto?
